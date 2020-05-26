@@ -1,0 +1,21 @@
+*{
+    font-family: 'Nunito', sans-serif;    
+}
+
+.quote{
+border-left: 2px solid grey;
+padding-left: 6px;
+font-weight: 200;    
+}
+.author{
+  display: inline-block;  
+}
+
+.post{
+  border-bottom: 1px solid gray;
+  padding: 10px;
+}
+
+#lastpost{
+border-bottom: none;  
+}
